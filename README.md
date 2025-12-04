@@ -5,12 +5,7 @@
 ## 📸 游戏截图
 
 ### 游戏界面
-
-![游戏界面](images\softgamepic.png)
-
-### 源码界面
-
-![代码和游戏界面](images\softgamepic.png)
+![softgamepic.png](images/softgamepic.png) 
 
 ## 🎮 游戏简介
 
@@ -86,6 +81,9 @@
 4. 确保解决方案配置为"Debug"，平台选择为"x64"
 5. 点击"生成" > "生成解决方案"
 6. 编译成功后，可执行文件将生成在 `x64/Debug` 目录下
+
+### 源码界面
+![codepic.png](images/codepic.png)
 
 ### 命令行编译（可选）
 
