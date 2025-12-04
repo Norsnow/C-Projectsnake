@@ -50,7 +50,7 @@
 4. 避免撞到墙壁或自身，否则游戏结束
 5. 尽可能获得更高的分数
 
-## 📁 文件结构
+## 📁C++源项目文件结构
 
 ```
 ├── C++Projectsnake/          # 主项目目录
@@ -71,7 +71,7 @@
 - **API**：Windows API
 - **技术特点**：双缓冲技术、面向对象设计
 
-## 🔧 编译步骤
+## 🔧 C++源项目编译步骤
 
 ### 使用Visual Studio编译
 
@@ -99,7 +99,7 @@ cl /EHsc C++Projectsnake.cpp /link /out:C++Projectsnake.exe user32.lib gdi32.lib
 - 直接双击 `x64/Debug/C++Projectsnake.exe` 运行游戏
 - 或通过命令行运行：`cd x64/Debug && C++Projectsnake.exe`
 
-## 📝 开发文档
+## 📝C++源项目开发文档
 
 - **需求文档**：`需求文档.md`
 - **执行文档**：`执行文档.md`
