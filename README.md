@@ -2,6 +2,16 @@
 
 一款基于C++和Windows API开发的经典贪吃蛇游戏，提供流畅的游戏体验和丰富的视觉效果。
 
+## 📸 游戏截图
+
+### 游戏界面
+
+![游戏界面-2.png](images/游戏界面-2.png)
+
+### 源码界面
+
+![2.代码和游戏界面 (1).png](images/2.代码和游戏界面 (1).png)
+
 ## 🎮 游戏简介
 
 这是一款使用纯C++语言和Windows API开发的贪吃蛇游戏，包含三个不同难度的关卡，采用双缓冲技术避免图形闪烁，使用GDI图形设备接口进行图形绘制。
@@ -115,7 +125,7 @@ cl /EHsc C++Projectsnake.cpp /link /out:C++Projectsnake.exe user32.lib gdi32.lib
 - Youtube频道：[https://www.youtube.com/@northsnowmind](https://www.youtube.com/@northsnowmind)
 - 邮箱：ppt80000@gmail.com
 - Artstation资源：[https://www.artstation.com/sonwnor8](https://www.artstation.com/sonwnor8)
-- GitHub：[[https://github.com/Norsnow/C-Projectsnake](https://github.com/Norsnow/C-Projectsnake)]([https://github.com/Norsnow/C-Projectsnake](https://github.com/Norsnow/C-Projectsnake))
+- GitHub：[https://github.com/Norsnow/C-Projectsnake](https://github.com/Norsnow/C-Projectsnake)
 
 ---
 
