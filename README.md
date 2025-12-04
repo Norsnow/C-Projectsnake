@@ -115,7 +115,7 @@ cl /EHsc C++Projectsnake.cpp /link /out:C++Projectsnake.exe user32.lib gdi32.lib
 - Youtube频道：[https://www.youtube.com/@northsnowmind](https://www.youtube.com/@northsnowmind)
 - 邮箱：ppt80000@gmail.com
 - Artstation资源：[https://www.artstation.com/sonwnor8](https://www.artstation.com/sonwnor8)
-- GitHub：[https://github.com/your-github-username/C++Projectsnake](https://github.com/your-github-username/C++Projectsnake)
+- GitHub：[[https://github.com/Norsnow/C-Projectsnake](https://github.com/Norsnow/C-Projectsnake)]([https://github.com/Norsnow/C-Projectsnake](https://github.com/Norsnow/C-Projectsnake))
 
 ---
 
